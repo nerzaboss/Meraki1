@@ -25,7 +25,7 @@
                 name: "no se que poner",
                 category: "accesorios",
                 price: 1200,
-                description: "prueba de texto23.",
+                description: "prueba de texto3.",
                 image: "https://i.pinimg.com/736x/3b/fc/0d/3bfc0d087d49212beff9379dd490778b.jpg",
                 stock: 12
             },
