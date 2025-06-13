@@ -16,7 +16,7 @@
                 name: "Bordado de jojo",
                 category: "bordados",
                 price: 1800,
-                description: "Hermoso bordado floral a mano en bastidor de 20cm, ideal para decoración.",
+                description: "prueba de texto2.",
                 image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
                 stock: 5
             },
@@ -25,7 +25,7 @@
                 name: "no se que poner",
                 category: "accesorios",
                 price: 1200,
-                description: "Pulsera tejida en macramé con materiales naturales, ajustable.",
+                description: "prueba de texto23.",
                 image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
                 stock: 12
             },
@@ -34,7 +34,7 @@
                 name: "no se que poner",
                 category: "bordados",
                 price: 800,
-                description: "Bordado personalizado con el nombre que elijas, sobre tela de algodón.",
+                description: "prueba de texto2",
                 image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
                 stock: 3
             },
@@ -43,7 +43,7 @@
                 name: "no se que poner",
                 category: "accesorios",
                 price: 3200,
-                description: "Elegantes aretes colgantes en plata con piedras naturales.",
+                description: "ñiñiñili",
                 image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
                 stock: 6
             },
@@ -52,7 +52,7 @@
                 name: "no se que poner",
                 category: "bordados",
                 price: 4500,
-                description: "Mandala bordado a mano en bastidor de 30cm con hilos de colores vibrantes.",
+                description: "hola",
                 image: "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=400&h=300&fit=crop",
                 stock: 2
             }
