@@ -8,7 +8,7 @@
                 category: "accesorios",
                 price: 2500,
                 description: "Collar stray kids.",
-                image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
+                image: "https://i.pinimg.com/736x/3b/fc/0d/3bfc0d087d49212beff9379dd490778b.jpg",
                 stock: 8
             },
             {
@@ -17,7 +17,7 @@
                 category: "bordados",
                 price: 1800,
                 description: "prueba de texto2.",
-                image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
+                image: "https://i.pinimg.com/736x/3b/fc/0d/3bfc0d087d49212beff9379dd490778b.jpg",
                 stock: 5
             },
             {
@@ -26,7 +26,7 @@
                 category: "accesorios",
                 price: 1200,
                 description: "prueba de texto23.",
-                image: "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=400&h=300&fit=crop",
+                image: "https://i.pinimg.com/736x/3b/fc/0d/3bfc0d087d49212beff9379dd490778b.jpg",
                 stock: 12
             },
             {
